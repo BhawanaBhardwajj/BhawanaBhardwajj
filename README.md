@@ -15,11 +15,30 @@ And now, during my MBA at USC Marshall, I’m shifting deeper into **Product Man
 
 ---
 
-## 🔧 What I’m Working On
-- **Trojan Trade** – A student-to-student marketplace for USC  
-- **AI-driven hiring tools** – Resume insights, candidate scoring, and smart matching  
-- **Product case studies** – LinkedIn Application Tracker, Amazon Collectibles  
-- **AI & ML learning** – AWS AI Practitioner + Azure AI Fundamentals
+## 💡 Featured Product Work
+
+### 🔹 Trojan Trade – USC Student Marketplace
+**Problem:** Students needed a trusted, hassle-free way to buy and sell items within the USC community.  
+**Solution:** Designed a web-first marketplace with category browsing, student verification, AI-assisted search, and safety features to simplify campus transactions.  
+**Highlights:** Product scope, PRD, user flows, IA, wireframes, and early prototype screens.  
+👉 *Add link here*
+
+---
+
+### 🔹 LinkedIn Application Tracker & Insights Prototype
+**Problem:** MBA candidates struggle to manage applications, keep track of interview progress, and understand hiring trends.  
+**Solution:** Built a complete Jobs → “Application Tracker” and “Application Analytics” concept with funnel views, benchmarking, personalized insights, and hiring pulse indicators.  
+**Highlights:** PRD, wireframes, competitive research, analytics dashboard design.  
+👉 *Add link here*
+
+---
+
+### 🔹 Amazon Collectibles – “Collector’s Club” Concept
+**Problem:** Collectors in Japan lack a centralized, trustworthy platform for exclusive or limited-edition drops.  
+**Solution:** Created a PM case including user personas, tiered membership model, launch strategy, and a high-fidelity prototype for limited-edition collectibles.  
+**Highlights:** End-to-end product thinking, value prop, UX prototype, and GTM outline.  
+👉 *Add link here*
+
 
 ---
 
