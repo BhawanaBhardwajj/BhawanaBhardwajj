@@ -43,7 +43,9 @@ And now, during my MBA at USC Marshall, I’m shifting deeper into **Product Man
 ---
 
 ## 🧩 Core Skills
-- Product Strategy & PRDs  
+- Product Strategy & PRDs
+- Product Management
+- Product Development Lifecycle
 - User Research & UX Thinking  
 - Agile: Scrum | Jira | Backlogs | Sprints  
 - Data & Metrics for decision-making  
