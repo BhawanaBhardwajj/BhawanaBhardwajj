@@ -21,7 +21,7 @@ And now, during my MBA at USC Marshall, I’m shifting deeper into **Product Man
 **Problem:** Students needed a trusted, hassle-free way to buy and sell items within the USC community.  
 **Solution:** Designed a web-first marketplace with category browsing, student verification, AI-assisted search, and safety features to simplify campus transactions.  
 **Highlights:** Product scope, PRD, user flows, IA, wireframes, and early prototype screens.  
-👉 *Add link here*
+👉 *https://trojan-trade.com/*
 
 ---
 
@@ -29,7 +29,7 @@ And now, during my MBA at USC Marshall, I’m shifting deeper into **Product Man
 **Problem:** MBA candidates struggle to manage applications, keep track of interview progress, and understand hiring trends.  
 **Solution:** Built a complete Jobs → “Application Tracker” and “Application Analytics” concept with funnel views, benchmarking, personalized insights, and hiring pulse indicators.  
 **Highlights:** PRD, wireframes, competitive research, analytics dashboard design.  
-👉 *Add link here*
+👉 *https://linkedin-features.lovable.app/*
 
 ---
 
