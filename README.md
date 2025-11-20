@@ -11,7 +11,7 @@ Over the past decade, I’ve worked across:
 - 🏨 **Hospitality**  
 - 🧩 **B2B digital platforms**
 
-And now, during my MBA at USC Marshall, I’m shifting deeper into **Product Management & AI**, building projects that bring clarity, structure, and real user value.
+And now, during my MBA at USC Marshall, I’m shifting deeper into **Product Management & AI**, building products that bring clarity, structure, and real user value.
 
 ---
 
